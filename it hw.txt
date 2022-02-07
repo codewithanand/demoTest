@@ -1,0 +1,15 @@
+======================
+HTML
+======================
+WAP on the basis of character entity in HTML
+WAP to show use of img tag in HTML
+What is hyperlink and create hyperlink in terms of color in HTML
+Create a table in which you can show name, roll no., marks and percentage of marks o students in HTML
+WAP in HTML with the help of ol, ul and dl to describe- drink, breakfast, and lunch
+
+======================
+XML
+======================
+1. WAP in XML to create a resume of a student
+2. WAP in XML to create a course details
+3. WAP in XML to create a tag on family

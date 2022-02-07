@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<student>
+
+    <basicdetails>
+        <name>Ankit Kumar</name>
+        <email>ankitkr2022@gmail.com</email>
+        <contact>9891742271</contact>
+    </basicdetails>
+
+    <education>
+        <matric>
+            <school>ABC Public School, Ranchi</school>
+            <yearofpassing>2016</yearofpassing>
+            <board>CBSE</board>
+            <marks>463</marks>
+            <cgpa>9.8%</cgpa>
+        </matric>
+        <intermediate>
+            <school>ABC Public School, Ranchi</school>
+            <yearofpassing>2018</yearofpassing>
+            <board>CBSE</board>
+            <marks>384</marks>
+            <percent>76.8%</percent>
+        </intermediate>
+        <graduation>
+            <college>XYZ College, Ranchi</college>
+            <yearofpassing>2021</yearofpassing>
+            <board>Ranchi University</board>
+            <marks>821</marks>
+            <percent>82.1%</percent>
+        </graduation>
+    </education>
+
+</student>
